@@ -41,8 +41,8 @@ Since this is a client-side application with no backend dependencies, setup is s
 
 1.  **Clone the Repository:**
     ```bash
-    git clone https://github.com/9jawap/personal-finance-tracker.git
-    cd personal-finance-tracker
+    git clone https://github.com/9jawap/demo.git
+    cd demo
     ```
 2.  **Open in Browser:** Simply open the `index.html` file in your web browser.
     ```bash
